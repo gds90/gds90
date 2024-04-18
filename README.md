@@ -9,7 +9,7 @@ Ciao! Sono Giuseppe, uno Junior Full Stack Web Developer, con un attestato conse
 ## Chi sono
 
 - 🚀 Appassionato di tecnologia
-- 💻 Ho studiato
+- 💻 Sviluppatore full stack con esperienza in HTML, CSS e SASS, Javascript e Vue.js, Bootstrap, Php e Laravel, MySQL
 - 🌱 Sempre alla ricerca di nuove sfide e opportunità di apprendimento
 
 ## Cosa troverai qui
@@ -20,8 +20,8 @@ Ciao! Sono Giuseppe, uno Junior Full Stack Web Developer, con un attestato conse
 
 ## Come contattarmi
 
-- 🔗 [LinkedIn]https://www.linkedin.com/in/gdsdev/
-- 📧 [Email](tuo@email.com)
+- 🔗 LinkedIn: https://www.linkedin.com/in/gdsdev/
+- 📧 Email: giuseppedesimone.dev@gmail.com
 
 Non vedo l'ora di connettermi con altri sviluppatori, collaborare su nuovi progetti e imparare insieme! Grazie per aver visitato il mio profilo GitHub. 😊
 
