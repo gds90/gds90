@@ -1,7 +1,3 @@
-
-
-Mi chiamo Giuseppe e sono uno Jr. Full Stack Web Developer.
-
 # Benvenuto nel mio profilo GitHub! 👋
 
 Ciao! Sono Giuseppe, uno Junior Full Stack Web Developer, con un attestato conseguito presso l'accademy di Boolean dove ho acquisito competenze sia lato front-end che back-end
